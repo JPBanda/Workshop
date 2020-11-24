@@ -8,13 +8,13 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: seagreen;
+    background-color: rgb(223, 10, 10);
 }
 
 section{
     width: 40vw;
     height: 60vw;
-    background-color: lightpink;
+    background-color: rgb(231, 191, 12);
 }
 
 button{
